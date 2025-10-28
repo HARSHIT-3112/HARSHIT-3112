@@ -56,11 +56,19 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats & Streak Counter
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHIT-3112&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT-3112&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HARSHIT-3112&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshit’s GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=HARSHIT-3112&theme=tokyonight&hide_border=true&fire=DD2727&ring=5294E2&currStreakLabel=FFFFFF" alt="Harshit’s GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT-3112&theme=tokyo-night&hide_border=true" alt="Harshit’s Contribution Graph" />
+</p>
+
 
 ---
 
