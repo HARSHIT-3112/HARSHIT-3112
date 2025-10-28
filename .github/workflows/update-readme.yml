@@ -1,0 +1,16 @@
+name: Update GitHub README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: echo "GitHub Stats Auto-Update for HARSHIT-3112"
