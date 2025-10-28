@@ -57,16 +57,19 @@
 ---
 
 ---
-
-### 📊 GitHub Stats & Streak Counter
+### 📊 GitHub Stats (Real-Time Updates)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HARSHIT-3112&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshit’s GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=HARSHIT-3112&theme=tokyonight&hide_border=true&fire=DD2727&ring=5294E2&currStreakLabel=FFFFFF" alt="Harshit’s GitHub Streak" />
+  <!-- Main Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HARSHIT-3112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harshit’s GitHub Stats" />
+  
+  <!-- Real-Time Streak Counter -->
+  <img width="48%" src="https://streak-stats.demolab.com?user=HARSHIT-3112&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=5294E2&currStreakNum=ffffff&currStreakLabel=ffffff&sideLabels=5294E2&sideNums=ffffff" alt="Harshit’s GitHub Streak" />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT-3112&theme=tokyo-night&hide_border=true" alt="Harshit’s Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHIT-3112&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Harshit’s Contribution Graph" />
 </p>
 
 
