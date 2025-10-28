@@ -1,48 +1,102 @@
-<h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">🚀 Software Engineer | Backend & AI Enthusiast | Django | FastAPI | Microservices</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
+<h3 align="center">🚀 AI & Backend Developer</h3>
+<h4 align="center">“Building intelligent backend systems powered by AI 🧠🚀”</h4>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently building **EduBot**, an AI-powered learning assistant (5-microservice architecture)
-- 🌱 Learning **Advanced Machine Learning** and **Production-Grade Django + FastAPI**
-- 💬 Ask me about **Microservices**, **APIs**, **Django**, and **AI Integrations**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/YOURUSERNAME)** | **[Portfolio](https://yourportfolio.com)**
+- 🔭 Currently working on **EduBot** — an AI-powered microservice-based learning platform  
+- 🌱 Exploring **Agentic AI**, **LangChain**, **RAG**, and **LLM-driven systems**  
+- ⚙️ Building scalable backends using **FastAPI, Django, Docker, Postgres, Kafka, Redis**  
+- 💡 Interested in **AI infrastructure**, **automation**, and **intelligent APIs**  
+- 📫 Reach me at **[chaturvedih45@gmail.com](mailto:chaturvedih45@gmail.com)**  
 
 ---
 
 ### 🛠️ Tech Stack
+
+#### 🤖 AI & Machine Learning
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![LangChain](https://img.shields.io/badge/-LangChain-2C2D72?style=flat)
+![LLMs](https://img.shields.io/badge/-LLMs-8A2BE2?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-blueviolet?style=flat)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=flat)
+
+#### ⚙️ Backend & API
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
+![REST](https://img.shields.io/badge/-REST%20API-005571?style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+
+#### 🧩 DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)
+
+#### 🧑‍💻 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧠 **EduBot** | AI-powered learning platform with 5 microservices | FastAPI, LangChain, Postgres, Docker |
+| 🍔 **Hungry Nite** | College café food-ordering system | Django, React, SQLite |
+| 👟 **Clothy** | Shoe brand e-commerce backend | Django REST, React, PostgreSQL |
+| ⚙️ **AI Productivity Tracker** | Time-tracking + AI classification tool | FastAPI, ML, Chrome Extension |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHIT-3112&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHIT-3112&theme=tokyonight" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🧠 **EduBot** | AI learning assistant with 5 microservices | FastAPI, Postgres, LangChain |
-| 🍔 **Hungry Nite** | College café ordering app | Django, React, SQLite |
-| 👟 **Clothy** | Shoe e-commerce backend | Django REST, React |
-| ⚙️ **AI Task Tracker** | Time tracking + AI productivity | FastAPI, React, MongoDB |
+### 🧮 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHIT-3112&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARSHIT-3112&theme=tokyonight&margin-w=10&margin-h=10&column=7" />
+</p>
+
+---
+
+### 🐍 Contribution Animation
+<p align="center">
+  <img src="https://github.com/HARSHIT-3112/HARSHIT-3112/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/HARSHIT-3112"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
+  <a href="mailto:chaturvedih45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+### ⚡ Fun Fact
+> I love combining AI intelligence with backend systems to make them smarter, faster, and more human-like 🤖⚙️
+
+---
+
+⭐️ From [Harshit Chaturvedi](https://github.com/HARSHIT-3112)
